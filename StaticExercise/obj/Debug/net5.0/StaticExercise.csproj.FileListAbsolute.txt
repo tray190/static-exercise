@@ -1,0 +1,16 @@
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\obj\Debug\net5.0\StaticExercise.csproj.AssemblyReference.cache
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\obj\Debug\net5.0\StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\obj\Debug\net5.0\StaticExercise.AssemblyInfoInputs.cache
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\obj\Debug\net5.0\StaticExercise.AssemblyInfo.cs
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\obj\Debug\net5.0\StaticExercise.csproj.CoreCompileInputs.cache
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\bin\Debug\net5.0\StaticExercise.exe
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\bin\Debug\net5.0\StaticExercise.deps.json
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\bin\Debug\net5.0\StaticExercise.runtimeconfig.json
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\bin\Debug\net5.0\StaticExercise.runtimeconfig.dev.json
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\bin\Debug\net5.0\StaticExercise.dll
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\bin\Debug\net5.0\ref\StaticExercise.dll
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\bin\Debug\net5.0\StaticExercise.pdb
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\obj\Debug\net5.0\StaticExercise.dll
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\obj\Debug\net5.0\ref\StaticExercise.dll
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\obj\Debug\net5.0\StaticExercise.pdb
+C:\Users\bellt\Desktop\Repos\static exercise\StaticExercise\StaticExercise\obj\Debug\net5.0\StaticExercise.genruntimeconfig.cache
