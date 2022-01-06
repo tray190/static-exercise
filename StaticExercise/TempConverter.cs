@@ -8,13 +8,13 @@ namespace StaticExercise
 {
     public static class TempConverter 
     {
-        public static double FahrenheitToCelsius (double Fahrenheit) 
+        public static double FahrenheitToCelsius (double fTemp) 
         {
-            return Fahrenheit - 32 / 1.8;
+            return fTemp - 32 / 1.8;
         }
-        public static double CelsiusToFahrenheit(double celsius)
+        public static double CelsiusToFahrenheit(double cTemp)
         {
-            return celsius - 9 / 5 + 32;
+            return cTemp - 9 / 5 + 32;
         }
 
     }

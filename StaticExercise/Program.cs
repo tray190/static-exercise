@@ -6,12 +6,25 @@ namespace StaticExercise
     {
         static void Main(string[] args)
         {
-            var celcius = TempConverter.FahrenheitToCelsius(68);
-            var Fahrenheit = TempConverter.CelsiusToFahrenheit(20);
+            Console.WriteLine("put in a temp fr celcius or fahrenheit and I will convert it");
+            Console.WriteLine();
+            Console.WriteLine("put in c for celcius and f for fahrenheit");
+            var tempType = Console.ReadLine().ToLower();
+            Console.WriteLine();
+            if (tempType == "f")
+            {
+                Console.WriteLine("enter the temp here");
+                var temp = double.Parse(Console.ReadLine());
+                Console.WriteLine($"the temp converted from fahrenheit to celcius is {TempConverter.FahrenheitToCelsius(temp)}");
 
-            Console.WriteLine("conversation");
-                Console.WriteLine($"celsius{celcius}");
-                Console.WriteLine($"Fahrenheit{Fahrenheit}");
+            }
+            else
+            {
+                Console.WriteLine("enter celcius temp here");
+                var temp = double.Parse(Console.ReadLine());
+                Console.WriteLine($"the temp converted from celcius to fahrenheit is {TempConverter.CelsiusToFahrenheit(temp)}");
+            }
+            
         }
     }
 }
